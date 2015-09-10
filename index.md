@@ -30,6 +30,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
     - [E-Books](#e-books)
     - [Media](#media)
     - [Newsletters](#newsletters)
+    - [Testing](#testing)
 
 
 ## Analysis
@@ -198,3 +199,9 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address*
 
 - [Weekly MySQL News](http://mysqlnewsletter.com/) - Unofficial weekly news digest of all things MySQL.
+
+## Testing
+
+*Testing tools and public data
+
+- [Random Query Generator](https://launchpad.net/randgen) - pseudo-random data and query generator that can be used to test almost any DB.

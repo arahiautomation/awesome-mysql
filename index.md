@@ -202,6 +202,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 ## Testing
 
-*Testing tools and public data
+*Testing tools and public data*
 
 - [Random Query Generator](https://launchpad.net/randgen) - pseudo-random data and query generator that can be used to test almost any DB.
+- [Employees sample database](https://github.com/datacharmer/test_db) - a sample MySQL database with an integrated test suite, used to test applications and database servers 
